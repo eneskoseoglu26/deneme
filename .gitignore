@@ -1,1 +1,4 @@
+# Git versiyon sistemi tarafından takip edilmesini istemediğimiz dosyaları, klasörleri vs. bu dosyada belirtiriz
+
+# Örnek olarak "scss/" yazarak bu klasörü takip etmemesini belirttim
 scss/
