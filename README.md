@@ -24,5 +24,5 @@ satırlı
 kod
 bloğu
 printf("Hello World")
-```
+```C
 [LinkedIn](https://www.linkedin.com/in/enes-koseoglu/)
