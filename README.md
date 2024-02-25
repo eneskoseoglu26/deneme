@@ -18,11 +18,11 @@ Tire(-) ile listeleme
 - üçüncü
 
 ` tek satırlık kod bloğu `
-```
+```C
 çok 
 satırlı 
 kod
 bloğu
 printf("Hello World")
-```C
+```
 [LinkedIn](https://www.linkedin.com/in/enes-koseoglu/)
