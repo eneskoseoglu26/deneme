@@ -1,7 +1,7 @@
 # Deneme Başlığı
 .md => markdown'a karşılık gelmektedir.
 ## Alt başlık
-yazılar --- ...
+yazılar ...
 
 **bold**
 *italic*
@@ -26,3 +26,6 @@ bloğu
 printf("Hello World")
 ```
 [LinkedIn](https://www.linkedin.com/in/enes-koseoglu/)
+
+Yatay çizgi üç tireyle oluşturulur
+---
