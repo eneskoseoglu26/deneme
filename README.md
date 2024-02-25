@@ -16,3 +16,14 @@ Tire(-) ile listeleme
 - birinci
 - ikinci
 - üçüncü
+
+´ tek satırlık kod bloğu´
+´´´
+çok 
+satırlı 
+kod
+bloğu
+printf("Hello World")
+´´´
+
+(LinkedIn)[https://www.linkedin.com/in/enes-koseoglu/]
