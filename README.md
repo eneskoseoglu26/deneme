@@ -17,13 +17,12 @@ Tire(-) ile listeleme
 - ikinci
 - üçüncü
 
-´ tek satırlık kod bloğu´
-´´´
+` tek satırlık kod bloğu `
+```
 çok 
 satırlı 
 kod
 bloğu
 printf("Hello World")
-´´´
-
-(LinkedIn)[https://www.linkedin.com/in/enes-koseoglu/]
+```
+[LinkedIn](https://www.linkedin.com/in/enes-koseoglu/)
